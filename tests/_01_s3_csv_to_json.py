@@ -1,8 +1,8 @@
 import awswrangler as wr
-import pandas as pd
-import boto3
-import pytz
-import json
+# import pandas as pd
+# import boto3
+# import pytz
+# import json
 
 
 def lambda_handler(event, context):
