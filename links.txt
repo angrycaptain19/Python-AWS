@@ -1,0 +1,16 @@
+https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html
+
+
+https://github.com/awslabs/aws-data-wrangler
+https://github.com/awslabs/aws-data-wrangler/blob/main/tutorials/003%20-%20Amazon%20S3.ipynb
+
+
+pip install awswrangler
+
+
+https://github.com/awslabs/aws-data-wrangler/releases
+
+topics:
+aws cli
+awsdatawrangler
+layer
